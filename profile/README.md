@@ -1,6 +1,4 @@
-# Hangover Games
-
-We are a game development company from Finland.
+# We are a game development company from Finland.
 
 You can buy our development services [2100 USD / 24 hours](https://store.hangover.games/product/game-develoment-pack-24-hours/).
 
